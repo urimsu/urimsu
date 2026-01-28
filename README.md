@@ -1,6 +1,6 @@
 # 🚀 Hey there, I'm [Urim]!
 
-🖥 **Full-Stack Tinkerer | Code Alchemist | Always Learning**  
+🖥 **Full-Stack Tinkerer | 🖥 Code Alchemist | 🌱Always Learning**  
 
 Building apps, breaking things, and putting them back together better.  
 Passionate about **clean architecture**, **scalable systems**, and a bit of **creative chaos**.  
