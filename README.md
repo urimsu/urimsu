@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🚀 Hey there, I'm [Dein Name]!
 
-<!--
-**urimsu/urimsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥 **Full-Stack Tinkerer | Code Alchemist | Always Learning**  
 
-Here are some ideas to get you started:
+Building apps, breaking things, and putting them back together better.  
+Passionate about **clean architecture**, **scalable systems**, and a bit of **creative chaos**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**  
+Python | JavaScript/TypeScript | React | Flask | MySQL | Docker | Git  
+
+💡 Loves open-source, coffee ☕, and solving problems nobody asked for.  
+
+> "Occasionally writes scripts, always writes bugs 😎"
