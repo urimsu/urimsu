@@ -1,7 +1,7 @@
  
 # Hey, I'm Urim! 👋
 
-**first of all**: *I use Arch, btw. And Vim, btw.*
+*I use Arch, btw. And Vim, btw.*
 
 **Linux Enthusiast | Cybersecurity Explorer | Software Developer**
 
