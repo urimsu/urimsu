@@ -1,13 +1,30 @@
-# 🚀 Hey there, I'm [Urim]!
+ 
+# Hey, I'm Urim! 👋
 
-🖥 **Full-Stack Tinkerer | 🖥 Code Alchemist | 🌱Always Learning**  
+**Linux Enthusiast | Cybersecurity Explorer | Software Developer**
 
-Building apps, breaking things, and putting them back together better.  
-Passionate about **clean architecture**, **scalable systems**, and a bit of **creative chaos**.  
+I enjoy understanding how things work, building my own solutions, and occasionally breaking things along the way.
 
-**Tech Stack:**  
-Python | JavaScript/TypeScript | React | Flask | MySQL | Docker | Git  
+Currently exploring **Linux, cybersecurity, networking, and system architecture**, while developing tools that make everyday workflows a little easier.
 
-💡 Loves open-source, coffee ☕, and solving problems nobody asked for.  
+### 🔧 What I'm working with
 
-> "Occasionally writes scripts, always writes bugs 😎"
+- **Languages:** Python, JavaScript/TypeScript, Bash, SQL
+- **Systems:** Linux, Arch, Fedora, Ubuntu, macOS
+- **Infrastructure:** Docker, Proxmox, SSH, WireGuard, Nginx
+- **Development:** Git, React, Flask, Neovim
+- **Interests:** Cybersecurity, Self-Hosting, Networking, Open Source, AI/ML
+
+### 🚀 Current Projects
+
+- **[Continuum](https://github.com/urimsu/continuum)** — A Linux tool to save, restore, and synchronize working sessions across devices.
+- **Homelab** — Experimenting with virtualization, networking, monitoring, and self-hosted services.
+- **AI Research** — Learning the fundamentals of machine learning and exploring ideas with PyTorch.
+
+### 🌱 Always Learning
+
+I prefer understanding the systems behind the tools I use rather than just making things work.
+
+Building, experimenting, failing, debugging, and improving — that's pretty much the process.
+
+> "Curiosity first. Documentation eventually."
